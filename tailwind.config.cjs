@@ -4,8 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'saoldisplay': ['saoldisplay', 'ui-serif', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
-        'sebino': ['sebino', 'ui-serif', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif']
+        'sohne': ['Sohne Mono', 'ui-serif', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
       },
       container: {
         center: true,
